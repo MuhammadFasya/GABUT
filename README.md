@@ -66,9 +66,8 @@ python main.py
 📦 Dependencies
 All dependencies are listed in requirements.txt. The app uses:
 
-tkinter for GUI
-
-matplotlib or similar (if chart/graph is used)
+- tkinter for GUI
+- matplotlib or similar (if chart/graph is used)
 
 🤝 Contributing
 Feel free to fork the project and submit a pull request. Suggestions, improvements, and new features are welcome!
